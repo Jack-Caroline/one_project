@@ -10,4 +10,7 @@ public class Iphone5s extends Iphone5 {
         Iphone5s iphone5s = new Iphone5s();
         iphone5s.sendMessage(brand);
     }
+    public void brand() {
+        System.out.println(this.brand);
+    }
 }
