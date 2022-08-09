@@ -11,11 +11,11 @@ public class Cooker extends Worker {
     }
 
     // 显示一天工作日常
-    public void showDairly() {
-        System.out.println("起床！");
-        System.out.println("上班！");
-        work();
-        System.out.println("下班！");
-        System.out.println("睡觉！");
-    }
+//    public void showDairly() {
+//        System.out.println("起床！");
+//        System.out.println("上班！");
+//        work();
+//        System.out.println("下班！");
+//        System.out.println("睡觉！");
+//    }
 }
