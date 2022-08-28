@@ -1,0 +1,10 @@
+2022-08-28 16:10:02 method: com.jack.java.day10.Log4jTester.test(Log4jTester.java:16) - [ INFO ] ----这是我的 info 级别的日志
+%s2022-08-28 16:10:02 method: com.jack.java.day10.Log4jTester.test(Log4jTester.java:18) - [ WARN ] ----这是我的 warn 级别的日志
+%s2022-08-28 16:10:02 method: com.jack.java.day10.Log4jTester.test(Log4jTester.java:20) - [ ERROR ] ----这是我的 error 级别的日志
+%s2022-08-28 16:10:59 method: com.jack.java.day10.Log4jTester.test(Log4jTester.java:16) - [ INFO ] ----这是我的 info 级别的日志
+2022-08-28 16:10:59 method: com.jack.java.day10.Log4jTester.test(Log4jTester.java:18) - [ WARN ] ----这是我的 warn 级别的日志
+2022-08-28 16:10:59 method: com.jack.java.day10.Log4jTester.test(Log4jTester.java:20) - [ ERROR ] ----这是我的 error 级别的日志
+2022-08-28 16:11:38 method: com.jack.java.day10.Log4jTester.test(Log4jTester.java:14) - [ DEBUG ] ----这是我的 debug 级别的日志
+2022-08-28 16:11:38 method: com.jack.java.day10.Log4jTester.test(Log4jTester.java:16) - [ INFO ] ----这是我的 info 级别的日志
+2022-08-28 16:11:38 method: com.jack.java.day10.Log4jTester.test(Log4jTester.java:18) - [ WARN ] ----这是我的 warn 级别的日志
+2022-08-28 16:11:38 method: com.jack.java.day10.Log4jTester.test(Log4jTester.java:20) - [ ERROR ] ----这是我的 error 级别的日志
